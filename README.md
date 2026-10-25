@@ -139,15 +139,11 @@ motto: "Code. Break. Fix. Repeat."
 
 ---
 
-## 🐍 Contribution Snake
+## 🌆 3D Contribution Calendar
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evilogre1112/evilogre1112/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evilogre1112/evilogre1112/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/evilogre1112/evilogre1112/output/github-snake-dark.svg" />
-</picture>
+<img src="https://github-readme-3d-contrib.vercel.app/api/evilogre1112?theme=github-dark" alt="3D Contribution Calendar" width="100%"/>
 
 </div>
 
