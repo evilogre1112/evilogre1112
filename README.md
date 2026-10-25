@@ -149,19 +149,7 @@ motto: "Code. Break. Fix. Repeat."
 </div>
 
 ---
-## 📈 Contribution Activity
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evilogre1112&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=evilogre1112&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=evilogre1112&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
----
 ## 💡 Random Dev Quote
 
 <div align="center">
