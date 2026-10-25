@@ -23,6 +23,10 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
+<table>
+<tr>
+<td width="55%">
+
 ```yaml
 name: evilogre1112
 role: Student & Full-Stack Enthusiast
@@ -32,15 +36,20 @@ fun_fact: "I debug code better at 2 AM ☕"
 motto: "Code. Break. Fix. Repeat."
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 - 🎓 **Student** đang trên hành trình trở thành **Full-Stack Developer**
 - 🔭 Đang làm việc với **Web Development & System Programming**
 - 🌱 Đang học thêm về **Cloud Computing & DevOps**
 - 💬 Hỏi tôi về **HTML/CSS, JavaScript, React, Python, C/C++**
 - ⚡ Fun fact: Tôi tin rằng **clean code** là nghệ thuật 🎨
 
-<br clear="both"/>
+</td>
+<td width="45%" align="center">
+
+<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
