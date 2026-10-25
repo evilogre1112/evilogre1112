@@ -117,17 +117,23 @@ motto: "Code. Break. Fix. Repeat."
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=evilogre1112&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/evilogre1112)
+<img src="https://github-profile-trophy.vercel.app/?username=evilogre1112&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Profile Summary
 
 <div align="center">
 
-[![evilogre1112's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evilogre1112&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/evilogre1112)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evilogre1112&theme=github_dark" alt="Profile Details" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evilogre1112&theme=github_dark" alt="Repos per Language" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evilogre1112&theme=github_dark" alt="Most Commit Language" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evilogre1112&theme=github_dark" alt="Stats" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evilogre1112&theme=github_dark&utcOffset=7" alt="Productive Time" width="48%"/>
 
 </div>
 
