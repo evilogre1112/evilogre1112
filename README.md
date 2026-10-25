@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=evilogre1112&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Student%20|%20Full-Stack%20Enthusiast%20|%20Code%20Lover&descAlignY=55&descSize=18&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=L%C3%A2m%20Nh%E1%BA%ADt%20Phi&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Student%20|%20Full-Stack%20Enthusiast%20|%20Code%20Lover&descAlignY=55&descSize=18&descColor=8b949e"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/evilogre1112">
@@ -28,7 +28,7 @@
 <td width="55%">
 
 ```yaml
-name: evilogre1112
+name: Lâm Nhật Phi
 role: Student & Full-Stack Enthusiast
 location: Vietnam 🇻🇳
 currently_learning: "Everything that excites me 🚀"
