@@ -92,12 +92,12 @@ motto: "Code. Break. Fix. Repeat."
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/evilogre1112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evilogre1112&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-pi-mauve-54.vercel.app/api?username=evilogre1112&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 
 <!-- Top Languages Card -->
 <a href="https://github.com/evilogre1112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilogre1112&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-pi-mauve-54.vercel.app/api/top-langs/?username=evilogre1112&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
