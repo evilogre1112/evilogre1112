@@ -117,7 +117,7 @@ motto: "Code. Break. Fix. Repeat."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=evilogre1112&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-six-livid.vercel.app/?username=evilogre1112&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
