@@ -106,7 +106,7 @@ motto: "Code. Break. Fix. Repeat."
 
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/evilogre1112">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evilogre1112&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=evilogre1112&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </a>
 
 </div>
